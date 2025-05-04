@@ -1,16 +1,20 @@
-# chatbot
+# ZephAI 🤖 – Your Personal AI Chat Assistant
 
-A new Flutter project.
+ZephAI is an AI-powered chatbot built with Flutter, designed for fast, intelligent, and engaging conversations. Whether you're seeking instant answers, personalized recommendations, or just a friendly chat, ZephAI makes interacting with AI natural and seamless.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔹 **Smart AI Conversations** – Powered by the Gemini-2.0-Flash API for accurate, contextual replies.
+- ⚡ **Fast & Lightweight** – Optimized for smooth, responsive user interactions.
+- 🧠 **Context-Aware Replies** – Maintains coherent conversations with conversation history awareness.
+- 🎨 **Minimal & Modern UI** – Clean and intuitive interface for a great user experience.
+- 📦 **Efficient State Management** – Built using Riverpod for scalable and maintainable state handling.
 
-A few resources to get you started if this is your first Flutter project:
+## 🧱 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter (Dart)
+- **AI Model:** Gemini-2.0-Flash API
+- **State Management:** Riverpod
+- **Architecture:** Clean Architecture
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
